@@ -1,10 +1,13 @@
-//Sammy Mukkamala
-//Period 5
-//10/25/24
+// Sammy Mukkamala
+// Period: 5
+// Date: 10/24/24
+
 // Tester class for Food3 and its subclasses, including Pizza3 and deepDishPizza3
-public class foodTester3 {
+public class foodTester3 
+{
     // Main method to run the program
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         System.out.println("\n\n\n");  // Print new lines for clearer output
 
         // Create Food3 instance representing baked banana muffins, set pieces and cost per piece
