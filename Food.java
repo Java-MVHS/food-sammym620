@@ -13,7 +13,7 @@ public class Food
         str = "";  // Initialize empty string
     }
 
-    // Parameterized constructor to initialize food item with preparation method, ingredient, and name
+    // Made constructor to initialize food item with preparation method, ingredient, and name
     public Food(String prepMethod, String ingredient, String name) 
     {
         str = "At the sale: " + name + " " + prepMethod + " with " + ingredient;
