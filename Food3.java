@@ -5,7 +5,7 @@
 // Base class representing a general food item
 public class Food3 
 {
-    protected String str;  // Description string for the food item
+    protected String str;  // Made string for the food item
     protected int numPieces;  // Number of pieces of the food item
     protected double costPerPiece;  // Cost per piece of the food item
 
